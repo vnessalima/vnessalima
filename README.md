@@ -1,7 +1,7 @@
 ## Olá eu sou a Vanessa 💗
 #### 💻 Acadêmica de Sistemas de informação na Universidade Federal do Ceará 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnessalima&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnessalima&show_icons=true&theme=synthwave) 
 
 ### 🔦Entre em contato clicando nos links abaixo: 
 
@@ -9,4 +9,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/u/0/#inbox)
 
-![Alt Text](https://media3.giphy.com/media/XBYgkYhFRuNGHLvEEN/giphy.gif) 
+![Alt Text](https://media0.giphy.com/media/2wicMBKqNZlrW/giphy.gif)
