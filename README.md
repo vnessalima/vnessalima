@@ -10,6 +10,6 @@
 
 ![Alt Text](https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif)
 
-![snake gif](https://github.com/vnessalima/vnessalima/blob/output/github-contribution-grid-snake.svg)
+
 
 
