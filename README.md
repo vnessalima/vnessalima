@@ -9,3 +9,7 @@
 )](https://mail.google.com/mail/u/0/#inbox) - vnessa.lima3@gmail.com -
 
 ![Alt Text](https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif)
+
+![snake gif](https://github.com/vnessalima/vnessalima/blob/output/github-contribution-grid-snake.svg)
+
+
