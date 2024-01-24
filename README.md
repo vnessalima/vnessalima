@@ -1,9 +1,9 @@
 ## Bem vindo(a).
-### 💻 Acadêmica de Sistemas de informação na Universidade Federal do Ceará 
+### 💻 Acadêmica de Sistemas de informação na Universidade Federal do Ceará
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnessalima&show_icons=true&theme=synthwave) 
 
-### Linguagens que estou estudando 💻
+### Linguagens que domino 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
