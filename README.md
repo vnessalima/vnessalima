@@ -1,5 +1,5 @@
 ## Bem vindo(a).
-### 💻 Acadêmica de Sistemas de informação na Universidade Federal do Ceará
+### 💻 Acadêmica de Sistemas de Informação na Universidade Federal do Ceará
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnessalima&show_icons=true&theme=synthwave) 
 
